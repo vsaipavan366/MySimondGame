@@ -1,2 +1,1 @@
-# MySimondGame
-clone of shoukath repo 
+# simons-game
